@@ -1,4 +1,4 @@
-## Hi there 👋
+<a href="https://discord.com/users/217013978914750465"><img src="https://lanyard.cnrad.dev/api/217013978914750465?borderRadius=5&bg=00000&showDisplayName=true" /></a>
 
 <!--
 **AfroooCircuss/AfroooCircuss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
